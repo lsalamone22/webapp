@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj": {}
+    "c:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj": {
+    "c:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj",
         "projectName": "webapp",
-        "projectPath": "C:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj",
+        "projectPath": "c:\\Users\\HP\\Tarea2\\webapp\\webapp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Tarea2\\webapp\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Tarea2\\webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
